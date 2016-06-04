@@ -1,2 +1,0 @@
-# testAndroid
-uot tak uot
